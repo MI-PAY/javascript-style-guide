@@ -1,17 +1,16 @@
-# Airbnb JavaScript Style Guide
+# MI PAY前端规范
 
-*用更合理的方式写 JavaScript*
+- 本规范用来指导及统一前端开发人员的js代码编码
+- 基于《Airbnb JavaScript Style Guide》，翻译来自Sivan Sun的中文版的修改
+ 
 
 ## [《Airbnb JavaScript Style Guide 中文版》](es5/README.md)
 
-重新翻译了最常用的 ES5 版，同步更新英文版改动。
 
 ---
 
 相关链接：
 
  - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
- - [ES6/ES2015 版](https://github.com/yuche/javascript)
- - [React/JSX 版](https://github.com/JasonBoy/javascript/tree/master/react)
 
--- EOF --
+
