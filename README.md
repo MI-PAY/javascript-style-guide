@@ -11,6 +11,6 @@
 
 相关链接：
 
- - [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+  [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 
